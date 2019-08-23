@@ -1,3 +1,5 @@
+# Project to get the implementation on Google Colab to ease execution
+
 # waifu2x-chainer
 
 This is a Chainer implementation of waifu2x [[1]](https://github.com/nagadomi/waifu2x).
