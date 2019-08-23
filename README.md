@@ -1,4 +1,4 @@
-# Project to get the implementation on Google Colab to ease execution
+# Google Colab implementation of waifu2x-chainer for people that do not have access to NVIDIA GPUs (CUDA).
 
 # waifu2x-chainer
 
