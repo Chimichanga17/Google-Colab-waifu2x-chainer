@@ -2,10 +2,11 @@
 
 This is the Google Colab implementation of [tsurumeso's chainer implementation of waifu2x](https://github.com/tsurumeso/waifu2x-chainer), for people like me that do not have access to NVIDIA GPUs. Google Colab has CUDA version 10.00, so it is neccessary that the CuPy installed is of the same version.
 
-The following is taken from tsurumeso's documentation - 
+
 
 # Work In Progress
 
+The following is taken from tsurumeso's documentation - 
 # waifu2x-chainer
 
 This is a Chainer implementation of waifu2x [[1]](https://github.com/nagadomi/waifu2x).
